@@ -4,6 +4,7 @@
 
 ## 参考资料
 【小土堆】PyTorch深度学习快速入门教程
+
 https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=3dd871ff46120819eca6181d0acc32dd
 
 ## 学习目录
@@ -18,6 +19,7 @@ https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all
 - Python 3.10
 - PyTorch
 - GPU/CPU
+
 环境配置教程：
 
 
