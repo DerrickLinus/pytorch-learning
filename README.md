@@ -30,5 +30,25 @@ https://www.bilibili.com/video/BV1S5411X7FY/?spm_id_from=333.337.search-card.all
 ## 学习目录
 - `read_data.py`：Pytorch加载数据
 - `rename_dataset.py`：获取数据集标签，创建label文件夹
+- `tensorboard.py`：TensorBoard可视化工具的使用
+- `transforms.py`：Transforms的使用
+- `UsefulTransforms.py`：常见的Transforms
+- `dataset_torchvision.py`：torchvision中的数据集使用
 - `dataloader.py`：学习 PyTorch 数据加载器的使用
-- 更多内容持续更新中...
+- `nn_module.py`：神经网络基本骨架nn.module的使用
+- `nn_conv_base.py`：基本卷积操作
+- `nn_conv2d.py`：卷积层
+- `nn_maxpool.py`：最大池化层
+- `nn_relu.py`：非线性激活
+- `nn_linear.py`：线性层
+- `nn_seq.py`：神经网络搭建小实战和Sequential的使用
+- `nn_loss.py`：损失函数的定义及公式
+- `nn_loss_network.py`：损失函数在神经网路中的使用
+- `nn_optim.py`：优化器
+- `model_pretrained.py`：现有网络模型的使用及修改
+- `model_save.py`、`model_load.py`：网络模型的保存与读取
+- `train.py`：完整的模型训练套路
+- `train_gpu_1.py`：利用GPU训练（一）
+- `train_gpu_2.py`：利用GPU训练（二）
+- `train_gpu_improve.py`：模型改进与参数优化
+- `test.py`：完整的模型验证套路
